@@ -1,6 +1,8 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: board24_2_l
+    shield: board24_2_l rgbled_adapter
   - board: seeeduino_xiao_ble
-    shield: board24_2_r
+    shield: board24_2_r rgbled_adapter
+  - board: seeeduino_xiao_ble
+    shield: settings_reset

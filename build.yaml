@@ -1,6 +1,6 @@
 ---
 include:
-  - board: xiao_ble
+  - board: xiao_ble//zmk
     shield: board24_2_l
-  - board: xiao_ble
+  - board: xiao_ble//zmk
     shield: board24_2_r

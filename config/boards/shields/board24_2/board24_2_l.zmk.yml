@@ -1,0 +1,9 @@
+file_format: "1"
+id: board24_2_l
+name: Board24_2 Left
+type: shield
+url: https://github.com/tak-koba/zmk-Board24_2
+requires:
+- xiao_ble
+features:
+- keys

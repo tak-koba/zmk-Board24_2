@@ -1,6 +1,6 @@
 ---
 include:
-  - board: xiao_ble//zmk
+  - board: seeeduino_xiao_ble
     shield: board24_2_l
-  - board: xiao_ble//zmk
+  - board: seeeduino_xiao_ble
     shield: board24_2_r

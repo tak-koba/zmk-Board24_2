@@ -1,8 +1,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: settings_reset
-  - board: seeeduino_xiao_ble
     shield: board24_2_l
   - board: seeeduino_xiao_ble
     shield: board24_2_r

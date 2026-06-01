@@ -1,2 +1,1 @@
 #include "board24_2.dtsi"
-&xiao_serial { status = "disabled"; };
